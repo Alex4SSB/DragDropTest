@@ -50,6 +50,7 @@
         <TextBox
             x:Name="TextBox1"
             Grid.Row="1"
+            FontFamily="Consolas"
             TextWrapping="Wrap"
             VerticalScrollBarVisibility="Visible" />
         <Grid Grid.Row="1" Grid.Column="1">
