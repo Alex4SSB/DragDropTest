@@ -47,6 +47,13 @@
                 Content="Streams as Unicode"
                 Unchecked="CheckBox1_Checked" />
         </Grid>
+        <Button
+            Grid.Column="1"
+            Padding="3"
+            Click="ButtonBase_OnClick"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Content="From Clipboard" />
         <TextBox
             x:Name="TextBox1"
             Grid.Row="1"
